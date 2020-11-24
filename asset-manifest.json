@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chem-engine/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/chem-engine/static/js/main.b0a9fa04.chunk.js",
+    "main.js.map": "/chem-engine/static/js/main.b0a9fa04.chunk.js.map",
+    "runtime-main.js": "/chem-engine/static/js/runtime-main.38ebfb64.js",
+    "runtime-main.js.map": "/chem-engine/static/js/runtime-main.38ebfb64.js.map",
+    "static/js/2.d632d75e.chunk.js": "/chem-engine/static/js/2.d632d75e.chunk.js",
+    "static/js/2.d632d75e.chunk.js.map": "/chem-engine/static/js/2.d632d75e.chunk.js.map",
+    "static/js/3.68cc0526.chunk.js": "/chem-engine/static/js/3.68cc0526.chunk.js",
+    "static/js/3.68cc0526.chunk.js.map": "/chem-engine/static/js/3.68cc0526.chunk.js.map",
+    "index.html": "/chem-engine/index.html",
+    "service-worker.js": "/chem-engine/service-worker.js",
+    "service-worker.js.map": "/chem-engine/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/chem-engine/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d632d75e.chunk.js.LICENSE.txt": "/chem-engine/static/js/2.d632d75e.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/chem-engine/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38ebfb64.js",
+    "static/js/2.d632d75e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b0a9fa04.chunk.js"
+  ]
+}
