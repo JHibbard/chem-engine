@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chem-engine/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/chem-engine/static/js/main.b0a9fa04.chunk.js",
-    "main.js.map": "/chem-engine/static/js/main.b0a9fa04.chunk.js.map",
+    "main.js": "/chem-engine/static/js/main.0a9f2f0b.chunk.js",
+    "main.js.map": "/chem-engine/static/js/main.0a9f2f0b.chunk.js.map",
     "runtime-main.js": "/chem-engine/static/js/runtime-main.38ebfb64.js",
     "runtime-main.js.map": "/chem-engine/static/js/runtime-main.38ebfb64.js.map",
     "static/js/2.d632d75e.chunk.js": "/chem-engine/static/js/2.d632d75e.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.38ebfb64.js",
     "static/js/2.d632d75e.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b0a9fa04.chunk.js"
+    "static/js/main.0a9f2f0b.chunk.js"
   ]
 }
